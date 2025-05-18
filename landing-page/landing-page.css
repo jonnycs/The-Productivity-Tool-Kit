@@ -1,0 +1,30 @@
+* {
+  font-family: 'Manrope', arial;
+}
+
+body {
+  background-color: #121212;
+}
+
+.main-logo {
+  width: 300px;
+}
+
+.tools-container {
+  display: flex;
+}
+
+.tool-icon {
+  width: 150px;
+}
+
+.tool-label {
+  color: white;
+  font-weight: 500;
+}
+
+.footer {
+  color: white;
+  font-weight: 500;
+  display: flex;
+}
