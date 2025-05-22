@@ -32,6 +32,10 @@ body {
   gap: 170px;
 }
 
+.tool {
+  cursor: pointer;
+}
+
 .tool-icon {
   display: flex;
   justify-content: center;
